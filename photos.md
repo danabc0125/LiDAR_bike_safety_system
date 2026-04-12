@@ -11,7 +11,7 @@ The front square indicates detected obstacles, while the rear vertical bar visua
 
 ![LCD Display](media/lcd_testing.jpg)
 
-# Testing Environment
+### Testing Environment
 This photo shows the real-world testing environment of the system.
 
 The spatial arrangement of objects in this scene matches the contour displayed on the LCD, demonstrating the system’s capability to accurately capture and visualize surrounding structures.
