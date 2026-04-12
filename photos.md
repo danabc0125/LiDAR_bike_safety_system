@@ -18,4 +18,8 @@ The spatial arrangement of objects in this scene matches the contour displayed o
 
 ![testing environment](media/testing_environment.jpg)
 
-## Testing
+## Development Documentation
+
+The photo shows the hardware I use: RPLiDAR A1, TF-02 pro LiDAR, TFT screen and the micro controller Arduino mega 2560
+
+![hardware](media/hardware.jpg)
