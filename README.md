@@ -76,6 +76,5 @@ This design allows the system to respond differently to front and rear risks in 
 
 ```text
 README.md
-main.ino
-docs/
+demo_photos
 media/
