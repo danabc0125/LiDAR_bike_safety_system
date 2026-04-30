@@ -75,6 +75,6 @@ This design allows the system to respond differently to front and rear risks in 
 ## Repository Structure
 
 ```text
-README.md
+README
 demo_photos
 media/
