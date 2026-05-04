@@ -41,8 +41,7 @@ The Arduino Mega 2560 serves as the system controller, handling sensor input, wa
 - **Arduino IDE**
 
 ### Programming Language
-- **C++**
-- [view source code](./source_code.cpp)
+- **C++** [view source code](./source_code.cpp)
 
 The program is written in C++ for sensor communication, data processing, warning control, and display output.
 
